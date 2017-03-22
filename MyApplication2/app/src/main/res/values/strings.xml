@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">The Williams live __ 188 Fleet Street.</string>
+    <string name="selectA">on</string>
+    <string name="selectB">at</string>
+    <string name="selectC">of</string>
+    <string name="selectD">in</string>
+    <string name="sure">确定</string>
+    <string name="cancel">取消</string>
+</resources>
